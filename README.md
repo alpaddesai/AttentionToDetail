@@ -1,4 +1,4 @@
-# Attention To Detail
+# Attention to Detail
 
 Project provides an overview of attention to detail
 
